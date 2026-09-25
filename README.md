@@ -1,4 +1,4 @@
-# SmartLeadz Closer Tracker
+# Clover Closer Tracker
 
 Live closer dashboard, leaderboard, and EOD report. Reads/writes to the Closer EOD table in Airtable.
 
